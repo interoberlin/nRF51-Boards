@@ -3,6 +3,8 @@ __Previews/
 Project Logs for */
 Project Outputs for */
 *.PrjPCBStructure
+*.htm
+*.html
 
 Thumbs.db
 
