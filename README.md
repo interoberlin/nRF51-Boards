@@ -10,8 +10,8 @@ https://www.youtube.com/watch?v=w83osOTgDeY<br/>
 ## RGB-LED-strip-FET-module.PCB
 A little board with transistors to control a strip of RGB LEDs<br/>
 https://www.youtube.com/watch?v=0xwwlhRyiOM<br/>
-<a href="https://raw.githubusercontent.com/interoberlin/RGB-LED-strip-FET-module.PCB/master/PCB3D.jpg">
-<img width="200px" src="https://raw.githubusercontent.com/interoberlin/RGB-LED-strip-FET-module.PCB/master/PCB3D.jpg"/>
+<a href="https://raw.githubusercontent.com/interoberlin/nRF51-Boards/master/RGB-LED-strip-FET-module.PCB/PCB3D.jpg">
+<img width="200px" src="https://raw.githubusercontent.com/interoberlin/nRF51-Boards/master/RGB-LED-strip-FET-module.PCB/PCB3D.jpg"/>
 </a>
 
 ## Core51822-LED-strip-module.PCB
