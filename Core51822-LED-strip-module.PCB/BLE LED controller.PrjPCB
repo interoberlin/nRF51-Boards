@@ -54,23 +54,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SHTFFEUQ
 
 [Document2]
-DocumentPath=..\Altium-Libraries\LED strips.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YESUXBMA
-
-[Document3]
 DocumentPath=..\Altium-Libraries\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMMBXTIG
 
-[Document4]
+[Document3]
 DocumentPath=..\Altium-Libraries\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,24 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIXCLNVC
 
-[Document5]
-DocumentPath=..\Altium-Libraries\LED strips.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DXGABXMR
-
-[Document6]
+[Document4]
 DocumentPath=..\Altium-Libraries\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWKGOFXX
 
-[Document7]
+[Document5]
 DocumentPath=..\Altium-Libraries\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYKFGEQX
 
-[Document8]
+[Document6]
 DocumentPath=..\Altium-Libraries\ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKEKXBUN
 
-[Document9]
+[Document7]
 DocumentPath=..\Altium-Libraries\Headers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +155,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJSXQNTU
 
-[Document10]
+[Document8]
+DocumentPath=..\Altium-Libraries\LEDs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DXGABXMR
+
+[Document9]
 DocumentPath=..\Altium-Libraries\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRLNYIOI
 
-[Document11]
+[Document10]
 DocumentPath=..\Altium-Libraries\Standard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,6 +205,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYJCDBAY
+
+[Document11]
+DocumentPath=..\Altium-Libraries\LEDs.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YESUXBMA
 
 [Document12]
 DocumentPath=..\Altium-Libraries\Headers.PcbLib
