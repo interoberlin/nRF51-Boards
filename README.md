@@ -17,5 +17,5 @@ https://www.youtube.com/watch?v=0xwwlhRyiOM<br/>
 ## Core51822-LED-strip-module.PCB
 Waveshare Core51822 controls one RGB and one single color LED strip<br/>
 <a href="https://raw.githubusercontent.com/interoberlin/nRF51-Boards/master/Core51822-LED-strip-module.PCB/PCB-3D.jpg">
-<img width="200px" src="https://raw.githubusercontent.com/interoberlin/nRF51-Boards/master/Core51822-LED-strip-module.PCB/PCB-3D.jpg"/>
+<img width="300px" src="https://raw.githubusercontent.com/interoberlin/nRF51-Boards/master/Core51822-LED-strip-module.PCB/PCB-3D.jpg"/>
 </a>
