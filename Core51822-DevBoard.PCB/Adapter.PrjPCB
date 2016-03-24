@@ -71,6 +71,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WKEKXBUN
 
 [Document3]
+DocumentPath=..\Altium-Libraries\Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WMMBXTIG
+
+[Document4]
 DocumentPath=..\Altium-Libraries\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIXCLNVC
 
-[Document4]
+[Document5]
 DocumentPath=..\Altium-Libraries\Headers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJSXQNTU
 
-[Document5]
+[Document6]
+DocumentPath=..\Altium-Libraries\Resistors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SHTFFEUQ
+
+[Document7]
 DocumentPath=..\Altium-Libraries\LEDs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXGABXMR
 
-[Document6]
+[Document8]
 DocumentPath=..\Altium-Libraries\LEDs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +172,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YESUXBMA
 
-[Document7]
+[Document9]
+DocumentPath=..\Altium-Libraries\Connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EYKFGEQX
+
+[Document10]
+DocumentPath=..\Altium-Libraries\Capacitors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GJIWOLYG
+
+[Document11]
 DocumentPath=..\Altium-Libraries\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRLNYIOI
 
-[Document8]
+[Document12]
 DocumentPath=..\Altium-Libraries\Standard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYJCDBAY
 
-[Document9]
+[Document13]
 DocumentPath=..\Altium-Libraries\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,24 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWKGOFXX
 
-[Document10]
-DocumentPath=..\Core51822-LED-strip-module.PCB\Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QPFGQVUC
-
-[Document11]
+[Document14]
 DocumentPath=..\Core51822-LED-strip-module.PCB\SWD resistor hack.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORLUPTMV
 
-[Document12]
+[Document15]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNEUTXMY
 
-[Document13]
+[Document16]
 DocumentPath=Adapter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,6 +307,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTOOMJIY
+
+[Document17]
+DocumentPath=FETs.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TBHPHNYB
+
+[Document18]
+DocumentPath=..\Core51822-LED-strip-module.PCB\LDO-3V3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QPFGQVUC
 
 [Configuration1]
 Name=Default Configuration
@@ -422,7 +507,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=KONICA MINOLTA C250 PS(P)
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -1204,4 +1289,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
