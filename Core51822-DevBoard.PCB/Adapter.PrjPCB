@@ -156,6 +156,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DXGABXMR
 
 [Document8]
+DocumentPath=..\Altium-Libraries\Diodes.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HRGUSYTD
+
+[Document9]
 DocumentPath=..\Altium-Libraries\LEDs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YESUXBMA
 
-[Document9]
+[Document10]
 DocumentPath=..\Altium-Libraries\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYKFGEQX
 
-[Document10]
+[Document11]
 DocumentPath=..\Altium-Libraries\Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJIWOLYG
 
-[Document11]
+[Document12]
 DocumentPath=..\Altium-Libraries\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRLNYIOI
 
-[Document12]
+[Document13]
 DocumentPath=..\Altium-Libraries\Standard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYJCDBAY
 
-[Document13]
+[Document14]
 DocumentPath=..\Altium-Libraries\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWKGOFXX
 
-[Document14]
+[Document15]
 DocumentPath=..\Core51822-LED-strip-module.PCB\SWD resistor hack.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORLUPTMV
 
-[Document15]
+[Document16]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNEUTXMY
 
-[Document16]
+[Document17]
 DocumentPath=Adapter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTOOMJIY
 
-[Document17]
+[Document18]
 DocumentPath=FETs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBHPHNYB
 
-[Document18]
+[Document19]
 DocumentPath=..\Core51822-LED-strip-module.PCB\LDO-3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,6 +358,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPFGQVUC
+
+[Document20]
+DocumentPath=UART.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UDFXTSTW
+
+[Document21]
+DocumentPath=SWD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIQTMIOJ
+
+[Document22]
+DocumentPath=Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FQSSRUWJ
 
 [Configuration1]
 Name=Default Configuration
