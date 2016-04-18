@@ -309,6 +309,23 @@ GenerateClassCluster=0
 DocumentUniqueId=QPFGQVUC
 
 [Document17]
+DocumentPath=SWD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIQTMIOJ
+
+[Document18]
 DocumentPath=..\Orchid-Lamp.PCB\SWD resistor hack.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORLUPTMV
 
-[Document18]
+[Document19]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQSSRUWJ
 
-[Document19]
+[Document20]
 DocumentPath=..\Altium-Libraries\Interactive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXXBEARG
 
-[Document20]
+[Document21]
 DocumentPath=..\Altium-Libraries\Interactive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJWXOUFR
 
-[Document21]
+[Document22]
 DocumentPath=DevBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
