@@ -1,5 +1,10 @@
 # nRF51-Boards
 
+## nRFduino
+
+Arduino breakout board for the Waveshare's Core51822 Bluetooth module based on Nordic's nRF51 SoC.<br/>
+This board now got it's own repository: https://github.com/interoberlin/nrfduino
+
 ## Orchid-Lamp
 The Waveshare Core51822 module controls two RGB LED strips<br/>
 <a href="https://raw.githubusercontent.com/interoberlin/nRF51-Boards/master/Orchid-Lamp.PCB/PCB-3D.jpg">
